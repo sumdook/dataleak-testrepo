@@ -1,11 +1,11 @@
-const a = 100;
-const b = 200;
-const c = 300;
-const d = 400;
-const e = 500;
-const f = 500;
-const g = 500;
-const h = 500;
+var a = 100;
+var b = 200;
+var c = 300;
+var d = 400;
+var e = 500;
+var f = 500;
+var g = 500;
+var h = 500;
 
 
 
