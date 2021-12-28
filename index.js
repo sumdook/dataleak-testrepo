@@ -10,6 +10,7 @@ var h = 500;
 
 var d = 500;
 var d = 500;
+var d = 500;
 
 
 
