@@ -9,6 +9,8 @@ var g = 500;
 var g = 500;
 var h = 500;
 var i = 600;
+var j = 700;
+
 
 
 
