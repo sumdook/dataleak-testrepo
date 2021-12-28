@@ -11,8 +11,8 @@ var h = 500;
 var d = 500;
 var d = 500;
 var d = 500;
-asdasd
-asdasd
+var d = 500;
+
 
 
 
