@@ -14,6 +14,8 @@ var k = 700;
 var l = 700;
 var forNew = 4;
 var forNew2 = 4;
+var forNew6_1 = 4;
+
 
 
 
